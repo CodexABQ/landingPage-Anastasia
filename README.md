@@ -16,7 +16,7 @@ This repository hosts [Person's Name]'s unique landing page showcasing their jou
 
 ## View [Person's Name]'s Landing Page
 
-Explore [Person's Name]'s landing page [here](link-to-the-page).
+Explore [Person's Name]'s landing page [here](https://CodexABQ.github.io/landingPage-Anastasia).
 
 ## Built With
 
